@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is nikhil chary ... and I'm a  smart contract developer..., from hyderabad....</h2>
+<h2 align="left">Hi 👋! My name is nikhil chary ... from hyderabad....</h2>
 
 ###
 
